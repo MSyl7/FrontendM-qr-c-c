@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![Screenshot](FrontendMentorQR-code-component.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/responsive-qr-code-component-using-html-and-css-yHYMTcbMa)
 - Live Site URL: [Live Site](https://msyl7.github.io/FrontendM-qr-c-c/)
 
 ### Built with
